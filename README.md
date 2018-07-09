@@ -2,7 +2,7 @@
 
 Trabalho de Redes usando ServerSocket em Java
 
-Chat (Servidor/Cliente)
+FTP (Servidor/Cliente)
 
 ### Projetos inclusos no repositório
 
